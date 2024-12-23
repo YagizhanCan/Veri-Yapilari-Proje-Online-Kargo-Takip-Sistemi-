@@ -1,3 +1,8 @@
+Grup Uyeleri: 
+1. Yağızhan Can - 21120205711
+2. Furkan Topçu - 24120205080 
+3. aleyna ölmez - 24120205079
+
 Online Kargo Takip Sistemi
 Bu proje, PySimpleGUI kullanarak geliştirilmiş, farklı veri yapılarını (Linked List, Priority Queue, Tree, Stack) ve çeşitli algoritmaları (Sıralama, Binary Search, BFS vb.) entegre eden bir Online Kargo Takip Sistemi örneğidir. Kod, müşteri ve kargo yönetiminden, ağaç yapısında rota hesabına kadar bir dizi işlevi gerçekleştirerek gerçek bir senaryoyu modellemeyi amaçlar.
 
@@ -126,8 +131,3 @@ Farklı veri yapılarının (Linked List, Heap, Tree, Stack) gerçek bir problem
 PySimpleGUI ile kullanıcı dostu bir arayüz sağlar.
 Zaman karmaşıklığı analizini popup hâlinde vererek eğitsel bir deneyim sunar.
 transaction_history listesiyle yapılan her işlemi kaydeder ve sonradan incelenebilmesine imkân tanır
-
-Grup Uyeleri: 
-1. Yağızhan Can - 21120205711
-2. Furkan Topçu - 24120205080 
-3. aleyna ölmez - 24120205079
